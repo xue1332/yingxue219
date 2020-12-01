@@ -10,6 +10,7 @@ class YxQqApplicationTests {
     void contextLoads() {
         int aa = 10;
         int bb = 20;
+        System.out.println(aa + bb);
     }
 
 }
